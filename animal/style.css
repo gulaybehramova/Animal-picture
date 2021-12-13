@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+}
+h1{
+    color: tomato;
+    text-align: center;
+}
+.cat{
+border: 3px solid tomato;
+width: 200px;
+height: 250px;
+margin: 20px;
+display: inline-block;
+margin-left: 650px;
+}
+.dog{
+border: 3px solid tomato;
+width: 200px;
+height: 250px;
+margin: 20px;
+display: inline-block;
+}
+.img{
+    width: 200px;
+    height: 250px;
+}
